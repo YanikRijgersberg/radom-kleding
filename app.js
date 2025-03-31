@@ -26,13 +26,10 @@
 //     });
 document.addEventListener("DOMContentLoaded", function () {
     let items = [
-      "./img/tspmo.avif",
+      "./img/trui-hoodie/dragontrui.png",
+      // "./img/test/tspmo2.avif"
   
-    ];  //   "./img/banaan.png",
-    //   "kers.png",
-    //   "druif.png",
-    //   "mango.png",
-    //   "peer.png"
+    ];  
     let button = document.getElementById("vkleding");
     const result = document.createElement("img");
     result.style.maxWidth = "200px";
@@ -50,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   document.addEventListener("DOMContentLoaded", function () {
     let items = [
-      "./img/broekv1-cocept.avif",
+      "./img/broeken/edhardybroek.png",
       // "./img/banaan.png",
     //   "kers.png",
     //   "druif.png",
