@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
     result.style.maxWidth = "200px";
     result.style.marginTop = "10px";
     result.style.display = "block";
-    result.style.alignContent = "center";
+    result.style.justifyContent = "center";
     if (button) {
       button.addEventListener("click", function () {
         let randomIndex = Math.floor(Math.random() * items.length);
