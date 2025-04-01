@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
      "./img/trui-hoodie/zwarthoodie.png",
      "./img/trui-hoodie/blauwhoodie.png",
      "./img/trui-hoodie/bladtrui.png",
+     "./img/trui-hoodie/blacktrui.png",
     ];  
     let button = document.getElementById("vkleding");
     const result = document.createElement("img");
