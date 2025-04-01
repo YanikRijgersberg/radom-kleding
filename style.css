@@ -3,6 +3,10 @@ html {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
 }
+html, body{
+    margin: 0;
+    padding: 0;
+}
 .jan{
     background-image: url(./img/bgq.jpg);
     background-size: cover;
@@ -11,8 +15,9 @@ html {
     height: 100vh;
     width: auto;
 }
-
-
+.vkleding{
+background-color: aqua;
+}
 a {
     color: crimson;
     text-decoration: none;
@@ -68,10 +73,19 @@ a {
     }
     .button-container button:hover{
         background-color: wheat;
-        color: crimson;
     }
     a:hover {
         text-decoration: none;
         color: white;
   }
+  .vkleding{
+    width: 100%;
+    height: 50px; 
+    background-color: blue;
+    color: white;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+}
+
   }

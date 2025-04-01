@@ -54,6 +54,7 @@ document.addEventListener("DOMContentLoaded", function () {
       "./img/broeken/grijsebaggy.png",
       "./img/broeken/cammobroek.png",
       "./img/broeken/zwartbaggy.png",
+      // "./img/broeken/lichtbruinbroek.png",
     ];
     let button = document.getElementById("vkleding");
     const result = document.createElement("img");
