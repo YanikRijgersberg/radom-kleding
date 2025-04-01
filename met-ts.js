@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     let items = [
      "./img/tshirt/tspmo.avif",
      "./img/tshirt/tspmo2.avif",    
+     "./img/tshirt/blacktsmetd.png",    
     ];  
     let button = document.getElementById("vkleding");
     const result = document.createElement("img");

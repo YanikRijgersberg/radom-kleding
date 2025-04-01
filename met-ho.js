@@ -6,6 +6,9 @@ document.addEventListener("DOMContentLoaded", function () {
      "./img/trui-hoodie/blauwhoodie.png",
      "./img/trui-hoodie/bladtrui.png",
      "./img/trui-hoodie/blacktrui.png",
+     "./img/trui-hoodie/blackhoodie met d.png",
+     "./img/trui-hoodie/greentrui.png",
+     "./img/trui-hoodie/whitetrui.png",
     ];  
     let button = document.getElementById("vkleding");
     const result = document.createElement("img");
@@ -25,6 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
 document.addEventListener("DOMContentLoaded", function () {
   let items = [
     "./img/riemen/black riem.png",
+    "./img/riemen/hellokittyriem.png",
   ];
   let button = document.getElementById("vkleding");
   const result = document.createElement("img");
@@ -72,6 +76,8 @@ document.addEventListener("DOMContentLoaded", function () {
      "./img/schoenen/NIKE GREEN.png",
      "./img/schoenen/fake campus.png",
      "./img/schoenen/tims.png",
+     "./img/schoenen/rednikesh.png",
+     "./img/schoenen/bruineschoenen.png",
     ];  
     let button = document.getElementById("vkleding");
     const result = document.createElement("img");
